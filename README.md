@@ -1,8 +1,7 @@
-+---------------------------+
-+ Command Talk Readme file  +
-+ (c) Philippe Laurent 2019 +
-+ laurizon@free.fr          +
-+---------------------------+
+Command Talk Readme file
+(c) Philippe Laurent 2019
+laurizon@free.fr         
+===============================================================================
 
 Command Talk is an addon for Command Modern Air Naval Operations (CMANO). It
 provides an audio environment by checking the game log and reading some of its
