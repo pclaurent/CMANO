@@ -1,8 +1,3 @@
-Command Talk Readme file
-(c) Philippe Laurent 2019
-laurizon@free.fr         
-===============================================================================
-
 Command Talk is an addon for Command Modern Air Naval Operations (CMANO). It
 provides an audio environment by checking the game log and reading some of its
 contents as if it was read by an actual sub/ship crew member (mainly the sonar
@@ -63,3 +58,5 @@ of key words for instance):
 You can of course add your own keyword lines and audio files. The "radioxx.wav"
 files are just radio gibberish clips. You can replace them with other sound samples,
 but their number must always be 15, no more, no less...
+
+(c) Philippe Laurent 2019
